@@ -1,1 +1,3 @@
 Python is a general-purpose programming language that is used to build software and websites, analyze data, and automate tasks.
+It is a high-level, object-oriented language that is easy to learn and read. 
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
